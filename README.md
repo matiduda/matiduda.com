@@ -7,7 +7,8 @@ Last update on **_August 7th 2019_**
 ### TODO:
 
 - [x] Make a github repo for the site
-- [ ] Rewrite everything from scratch
+- [ ] \(current)Learn some CSS and try to make a **working** menu in HTML
+- [ ] Create a embedded _contact_ form
 
 ## How do things look like right now _(not great)_
 ![alt text](https://i.imgur.com/37Jin4X.jpg)
