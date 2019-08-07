@@ -8,7 +8,7 @@ Last update on **_August 7th 2019_**
 - [x] Make a github repo for the site
 - [ ] Rewrite everything from scratch
 
-## What things look like right now
+## What things look like right now (not great)
 ![alt text](https://i.imgur.com/37Jin4X.jpg)
 
 I've never been much into HTML nor CSS, and this experiment is perfect for some self-education. I've got some minor experience with WordPress powered blogs, but they were always quickly abandoned.
