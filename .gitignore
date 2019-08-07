@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But not those...
+!.gitignore
+!public_html/
+!public_ftp/
