@@ -26,7 +26,7 @@ Feel free to explore my advancements and if You feel like giving me some advice,
 
 ### License
 
-Copyright © 201, [mateusz duda](https://github.com/matiduda).
+🄯 by [mateusz duda](https://github.com/matiduda).
 Released under the [GNU General Public License](LICENSE.md).
 
 ***
