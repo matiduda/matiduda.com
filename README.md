@@ -1,4 +1,4 @@
-# matiduda.com
+# [matiduda.com](https://matiduda.com)
 All the stuff needed if I break the site again
 
 Last update on **_August 7th 2019_**
@@ -8,12 +8,14 @@ Last update on **_August 7th 2019_**
 
 I've never been much into HTML nor CSS, and this experiment is perfect for some self-education. I've got some minor experience with WordPress powered blogs, but they were always quickly abandoned.
 I hope I do better this time.
+
+#
+
 Feel free to explore my advancements and if You feel like giving me some advice, feel free to add a pull request anywhere.
 
 * [LinkedIn Profile](https://linkedin.com/in/matiduda)
 * [Instagram Profile](https://instagram.com/tanczmy)
 * [Twitter Profile](https://twitter.com/tnczm)
-
 
 ### License
 
