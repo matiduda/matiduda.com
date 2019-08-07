@@ -1,7 +1,8 @@
 # Ignore everything
-*
+/*
 
 # But not those...
 !.gitignore
-!public_html/
-!public_ftp/
+!/public_html/*
+!/public_ftp/*
+!backup-*_matiktoz.tar.gz
